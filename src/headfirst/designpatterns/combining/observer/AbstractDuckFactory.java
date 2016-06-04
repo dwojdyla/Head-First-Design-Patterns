@@ -1,6 +1,6 @@
 package headfirst.designpatterns.combining.observer;
 /**
- * @author Dominik Wojdyka
+ * @author Dominik Wojdyla
  * @04.06.2016
  * 
  * Factory Pattern
